@@ -40,3 +40,22 @@ Data Sources → Power BI Desktop → Power BI Service
 
 👉 Production workloads should always run on Dedicated Capacity
 
+## Workspace
+- Collaboration boundary
+- Holds:
+    - Datasets
+    - Reports
+    - Dashboards
+- Security managed via roles
+
+👉 Workspaces map to business domains (Sales, Finance, HR)
+
+## Workspace Roles & Best Practices
+| Role        | Permissions     | Best Practice  |
+| ----------- | --------------- | -------------- |
+| Admin       | Full control    | 1–2 users only |
+| Member      | Build & publish | Developers     |
+| Contributor | Publish content | Analysts       |
+| Viewer      | Read-only       | Business users |
+
+
