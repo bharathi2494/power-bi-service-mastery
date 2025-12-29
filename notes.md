@@ -14,3 +14,12 @@ Data Sources → Power BI Desktop → Power BI Service
                     |
          Workspaces → Apps → End Users
 ```
+## Tenant vs Capacity vs Workspace
+## Tenant
+- Organization-wide boundary
+- Controlled by Power BI Admin Portal
+- Defines:
+    - Who can publish
+    - Who can create workspaces
+    - Sharing, export, embed rules
+👉 One tenant per organization
