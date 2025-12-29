@@ -119,7 +119,7 @@ Test Workspace
    ↓
 Prod Workspace
 ```
-## Deployment Pipelines (Recommended)
+## Deployment Pipelines
 
 **Available with:**
 - Power BI Premium
