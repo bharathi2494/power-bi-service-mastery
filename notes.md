@@ -22,4 +22,21 @@ Data Sources → Power BI Desktop → Power BI Service
     - Who can publish
     - Who can create workspaces
     - Sharing, export, embed rules
+      
 👉 One tenant per organization
+
+ ## Capacity
+ Compute & memory resources  
+ **Types:**  
+ - Shared Capacity (Free / Pro)
+ - Dedicated Capacity (Premium P / Fabric F)
+
+| Feature              | Shared | Dedicated  |
+| -------------------- | ------ | ---------- |
+| Performance          | Shared | Guaranteed |
+| Large models         | ❌     | ✅          |
+| XMLA Write           | ❌     | ✅          |
+| Deployment pipelines | ❌     | ✅          |  
+
+👉 Production workloads should always run on Dedicated Capacity
+
