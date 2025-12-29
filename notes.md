@@ -7,7 +7,7 @@ Power BI Service is a cloud-based SaaS layer hosted in Azure that manages:
 - Governance & auditing
 
 **High-level Flow**
-```
+```pyton
 Data Sources → Power BI Desktop → Power BI Service
                     |
             Datasets / Reports
