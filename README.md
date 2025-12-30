@@ -1,6 +1,5 @@
 # Power BI Service Mastery
 This repository demonstrates enterprise-level Power BI Service implementation, focusing on governance, security, deployment, performance, and administration.  
-It is designed for Power BI Developers with 2–5 years of experience and aligns with real-world production scenarios and PL-300 exam requirements.
 
 ## Key Topics Covered
 - Power BI Service architecture
