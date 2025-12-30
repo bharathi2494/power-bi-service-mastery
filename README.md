@@ -40,7 +40,7 @@ This repository demonstrates enterprise-level Power BI Service implementation, f
 - Reduced manual deployment errors
 - Enterprise CI/CD best practices
 
-## Performance & Monitoring
+# Performance & Monitoring
 - VertiPaq optimization
 - Capacity Metrics App
 - XMLA endpoint usage
@@ -52,7 +52,7 @@ This repository demonstrates enterprise-level Power BI Service implementation, f
 - Sensitivity labels & lineage view
 - Impact analysis for changes
 
-## Tools & Technologies
+# Tools & Technologies
 - Power BI Desktop
 - Power BI Service
 - DAX
