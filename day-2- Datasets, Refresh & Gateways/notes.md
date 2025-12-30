@@ -14,7 +14,7 @@ In Power BI Service, reports are built on top of datasets.
 ## 🔹 Import Mode
 - How it works
 - Data is copied into Power BI.
-- Stored in VertiPaq (in-memory) engine.
+- Stored in VertiPaq (in-memory) engine.<\br>
 **Pros**
 ✅ Very fast performance  
 ✅ Full DAX & modeling features
