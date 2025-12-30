@@ -16,7 +16,7 @@ In Power BI Service, reports are built on top of datasets.
 - Data is copied into Power BI.
 - Stored in VertiPaq (in-memory) engine.
 **Pros**
-✅ Very fast performance
+✅ Very fast performance  
 ✅ Full DAX & modeling features
 ✅ Works offline after refresh
 **Cons**
@@ -47,15 +47,15 @@ In Power BI Service, reports are built on top of datasets.
 
 ## 🔹 Composite Model
 **How it works**  
-Mix of Import + DirectQuery tables in one model.
-**Pros**  
-✅ Best of both worlds
-✅ High performance for historical data
-✅ Live data for critical tables
+Mix of Import + DirectQuery tables in one model.  
+**Pros**    
+✅ Best of both worlds  
+✅ High performance for historical data  
+✅ Live data for critical tables  
 **Cons**  
-❌ More complex architecture
+❌ More complex architecture  
 
-**Best Use Cases**  
+**Best Use Cases**    
 - Large enterprise models
 - Historical + real-time reporting
 
