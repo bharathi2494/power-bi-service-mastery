@@ -90,3 +90,17 @@ Security[Email] = USERPRINCIPALNAME()
   - Hide Salary column
   - Hide Cost table
   - Show only Aggregated data
+    
+## 🔹 Important Notes
+- OLS Cannot be created in Desktop UI
+- Configured via:
+    - Tabular Editor
+    - XMLA endpoint (Premium / PPU)
+
+| Role    | Access         |
+| ------- | -------------- |
+| HR      | Salary visible |
+| Manager | Salary hidden  |
+
+**Use when:** Sensitive columns / compliance rules
+
