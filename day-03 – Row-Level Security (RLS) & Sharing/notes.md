@@ -113,4 +113,24 @@ Security[Email] = USERPRINCIPALNAME()
 | Real Projects | ❌          | ✅           | ✅            |
 | Complexity    | Easy       | Medium      | Advanced     |
 
+## 4️⃣ Sharing Report vs Sharing App (Very Important ⭐)
+## 🔹 Sharing a Report
+- Share individual report
+- Users need dataset access
+- Breaks security if not careful
+- ❌ Not recommended for production
+
+##  Sharing via App (Best Practice)
+- Publish App from workspace
+- Users get:
+    - Reports
+    - Dashboards
+- No workspace access
+
+## 🔹 Security Advantage
+- ✔ RLS enforced
+- ✔ Clean access
+- ✔ Controlled deployment
+
+**Always share via App in real projects**
 
