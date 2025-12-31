@@ -104,3 +104,13 @@ Security[Email] = USERPRINCIPALNAME()
 
 **Use when:** Sensitive columns / compliance rules
 
+## summary
+
+| Feature       | Static RLS | Dynamic RLS | OLS          |
+| ------------- | ---------- | ----------- | ------------ |
+| Security Type | Hard-coded | Data-driven | Object-based |
+| Scalability   | ❌ Low      | ✅ High      | ✅ High       |
+| Real Projects | ❌          | ✅           | ✅            |
+| Complexity    | Easy       | Medium      | Advanced     |
+
+
