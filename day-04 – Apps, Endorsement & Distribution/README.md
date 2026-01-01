@@ -3,8 +3,8 @@
 - Apps vs Workspace Access
 - Power BI App Audiences
 - Dataset Endorsement
-       - Promoted
-       - Certified
+     - Promoted
+     - Certified
 - Usage Metrics
 
 ## Key Learnings:
