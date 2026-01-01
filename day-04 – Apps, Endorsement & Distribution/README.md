@@ -14,14 +14,8 @@
 - Understanding Promoted vs Certified datasets for data trust
 - Monitoring report adoption using Usage Metrics
 
-🔧 Hands-on Practice
-
-Created a Power BI App from Prod workspace
-
-Configured multiple audiences
-
-Set up navigation & landing page
-
-Enabled and reviewed usage metrics
-
-🎯 Outcome
+## Hands-on Practice
+- Created a Power BI App from Prod workspace
+- Configured multiple audiences
+- Set up navigation & landing page
+- Enabled and reviewed usage metrics
