@@ -130,5 +130,4 @@ Use when:
 
 ---
 
-✅ This completes **Day 4 – Apps, Endorsement & Distribution**
 
