@@ -1,8 +1,4 @@
-# 📅 Day 4 – Apps, Endorsement & Distribution (Power BI Service)
-
-## 🎯 Objective
-
-Understand how to **securely distribute Power BI content**, control user access, build **trust in datasets**, and track **usage & adoption**.
+# Day 4 – Apps, Endorsement & Distribution (Power BI Service)
 
 ---
 
@@ -60,7 +56,7 @@ Understand how to **securely distribute Power BI content**, control user access,
 
 Dataset endorsement helps users **identify trusted data sources**.
 
-### 🟡 Promoted Dataset
+### Promoted Dataset
 
 * Marked by dataset owner
 * Indicates dataset is reliable
@@ -71,7 +67,7 @@ Use when:
 * Dataset is under testing
 * Limited audience
 
-### 🟢 Certified Dataset
+### Certified Dataset
 
 * Approved by Power BI Admin / Governance team
 * Verified and trusted
