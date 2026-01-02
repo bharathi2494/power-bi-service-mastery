@@ -14,4 +14,4 @@
     * Dataset parameter rules for environment-specific values
 
 ## 🎯 Key Outcome:
-> Implemented a CI/CD-style workflow in Power BI Service to ensure controlled, consistent, and secure deployments across environments.
+>> Implemented a CI/CD-style workflow in Power BI Service to ensure controlled, consistent, and secure deployments across environments.
