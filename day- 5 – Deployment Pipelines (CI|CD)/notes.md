@@ -1,5 +1,5 @@
 # DAY 5 – Deployment Pipelines (CI/CD)
-## 1️⃣ What is a Deployment Pipeline? (Foundation)
+## 1️⃣ What is a Deployment Pipeline?
 A Deployment Pipeline in Power BI is a controlled way to move content across environments without re-publishing PBIX files manually.  
 It supports CI/CD (Continuous Integration / Continuous Deployment).  
 ### Typical Lifecycle
@@ -154,7 +154,7 @@ Does not support:
 7. Data source binding points to Prod DB
 8. App published for users
 
-# Common Interview Questions & Answers
+## Common Interview Questions & Answers
 ### Q1. What license is required for deployment pipelines?
 Answer: Power BI Premium or Premium Per User (PPU).
 
@@ -168,4 +168,4 @@ Answer: No. Pipelines manage Power BI artifacts, not source control.
 Answer: Parameter rules update parameters; binding maps datasets to data sources.
 
 ### One-Line Summary (Perfect Notes Line)
-> ***Deployment pipelines enable automated, governed promotion of Power BI content across Dev, Test, and Production environments using parameter rules and data source binding.***
+> ***Deployment pipelines enable automated, governed promotion of Power BI content across Dev, Test, and Production environments using parameter rules and data source binding.*** <
